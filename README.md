@@ -1,16 +1,171 @@
-# React + Vite
+# 🏔️ Passionate Hikers Club
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern hiking and travel website built with React, featuring mountain ranges, peaks, and outdoor destinations across Poland, England, Wales, and Slovakia.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://YOUR-DOMAIN-HERE
 
-## React Compiler
+## 📖 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Passionate Hikers Club is a personal project inspired by hiking, travelling, photography, and mountain exploration.
 
-## Expanding the ESLint configuration
+The application showcases selected mountain ranges, peaks, hills, national parks, and scenic destinations while demonstrating modern front-end development practices such as component-based architecture, responsive design, routing, multilingual support, and reusable UI patterns.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive design (Desktop, Tablet, Mobile)
+* React Router navigation
+* English / Polish language switcher
+* Country pages:
+
+  * Poland
+  * England & Wales
+  * Slovakia
+* Dynamic mountain cards
+* Reusable components
+* Contact form (PHP backend)
+* SEO optimisation
+* Custom 404 page
+* Framer Motion animations
+* Styled Components architecture
+* Custom favicon and PWA icons
+
+## 🏔️ Sections
+
+### Home
+
+Landing page with featured destinations and country navigation.
+
+### Poland
+
+Mountain ranges and peaks including:
+
+* Tatry
+* Beskidy
+* Pieniny
+* Bieszczady
+
+### England & Wales
+
+Selected landscapes and destinations:
+
+* Snowdon / Yr Wyddfa
+* Box Hill
+* Leith Hill
+* Seven Sisters
+
+### Slovakia
+
+Featured mountain regions:
+
+* High Tatras
+* Belianske Tatras
+* Slovak Paradise
+
+### About
+
+Project background, hiking inspiration, photography, travel and development information.
+
+### Contact
+
+Working contact form with PHP mail handler and quick links to GitHub, LinkedIn and Portfolio.
+
+## 🛠️ Built With
+
+### Frontend
+
+* React
+* React Router
+* Styled Components
+* Framer Motion
+* Vite
+
+### Backend
+
+* PHP (Contact Form)
+
+### Deployment
+
+* IONOS Hosting
+
+## 📂 Project Structure
+
+```txt
+src/
+├── assets/
+├── components/
+├── context/
+├── data/
+├── pages/
+├── routes/
+├── styles/
+├── App.jsx
+└── main.jsx
+```
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Silentmaster86/passionate-hikers-club-v2.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd passionate-hikers-club-v2
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Create production build:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+* Home Page
+* Poland Page
+* England & Wales Page
+* Slovakia Page
+* About Page
+* Contact Page
+
+## 👨‍💻 Author
+
+**Przemysław Pietkun**
+
+Portfolio:
+https://przemyslawpietkun.co.uk
+
+LinkedIn:
+https://www.linkedin.com/in/przemyslaw-pietkun-front-end-dev
+
+GitHub:
+https://github.com/Silentmaster86
+
+## 📄 License
+
+This project was created for educational and portfolio purposes.
