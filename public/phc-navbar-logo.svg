@@ -1,0 +1,21 @@
+<svg width="720" height="120" viewBox="0 0 720 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10 6) scale(0.21)">
+    <circle cx="256" cy="190" r="122" stroke="#FACC15" stroke-width="26"/>
+    <circle cx="256" cy="190" r="20" fill="#FACC15"/>
+    <path d="M256 36 L278 142 H234 L256 36Z" fill="#FACC15"/>
+    <path d="M256 344 L234 238 H278 L256 344Z" fill="#FACC15"/>
+    <path d="M102 190 L208 168 V212 L102 190Z" fill="#FACC15"/>
+    <path d="M410 190 L304 212 V168 L410 190Z" fill="#FACC15"/>
+    <path d="M154 88 L218 152" stroke="#38BDF8" stroke-width="20" stroke-linecap="round"/>
+    <path d="M358 88 L294 152" stroke="#38BDF8" stroke-width="20" stroke-linecap="round"/>
+    <path d="M154 292 L218 228" stroke="#38BDF8" stroke-width="20" stroke-linecap="round"/>
+    <path d="M358 292 L294 228" stroke="#38BDF8" stroke-width="20" stroke-linecap="round"/>
+    <path d="M58 430 L164 266 L238 374 L302 286 L454 430 H58Z" fill="#F8FAFC"/>
+    <path d="M164 266 L202 322 L178 316 L146 354 L124 334 L164 266Z" fill="#CBD5E1"/>
+    <path d="M302 286 L352 338 L318 330 L286 368 L264 348 L302 286Z" fill="#CBD5E1"/>
+    <path d="M226 430 C246 398 284 398 300 374 C316 350 286 336 268 320" stroke="#22C55E" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <circle cx="226" cy="430" r="10" fill="#22C55E"/>
+  </g>
+  <text x="135" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">Passionate</text>
+  <text x="135" y="92" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#FACC15" letter-spacing="0.5">Hikers Club</text>
+</svg>
