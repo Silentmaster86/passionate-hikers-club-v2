@@ -92,6 +92,7 @@ Working contact form with PHP mail handler and quick links to GitHub, LinkedIn a
 ## 📂 Project Structure
 
 ```txt
+screenshots/
 src/
 ├── assets/
 ├── components/
@@ -144,14 +145,41 @@ npm run preview
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Home Page
 
-* Home Page
-* Poland Page
-* England & Wales Page
-* Slovakia Page
-* About Page
-* Contact Page
+![Home page](/screenshots/home.png)
+
+![Home page](/screenshots/home_1.png)
+
+### Poland Page
+
+![Poland page](/screenshots/poland.png)
+
+![Poland page](/screenshots/poland_1.png)
+
+### England & Wales Page
+
+![En & Wales page](/screenshots/en_wales.png)
+
+![En & Wales page](/screenshots/en_wales_1.png)
+
+### Slovakia Page
+
+![Slovakia page](/screenshots/slovakia.png)
+
+![Slovakia page](/screenshots/slovakia_1.png)
+
+### About Page
+
+![About page](/screenshots/about.png)
+
+![About page](/screenshots/about_1.png)
+
+### Contact Page
+
+![Contact page](/screenshots/contact.png)
+
+![Contact page](/screenshots/contact_1.png)
 
 ## 👨‍💻 Author
 
